@@ -26,3 +26,13 @@ Summarize the machine learning model results. Justify recommending the model for
 
 ### Conclusion
 Conclude the analysis, considering the trade-offs between precision, recall, and the company's risk tolerance.
+
+### Resources used 
+
+[How To Fit, Evaluate, And Interpret A Logistic Regression Model For Credit Risk](https://fastercapital.com/topics/how-to-fit,-evaluate,-and-interpret-a-logistic-regression-model-for-credit-risk.html)
+
+[Credit Scoring Using Logistic Regression and Decision Trees](https://www.mathworks.com/help/risk/creditscorecard-compare-logistic-regression-decision-trees.html)
+
+[Supervised learning](https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
+
+[Classification: Precision and Recall](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall)
