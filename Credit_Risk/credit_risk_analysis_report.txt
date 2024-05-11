@@ -1,0 +1,27 @@
+## Overview of the Analysis
+The purpose of this analysis was to build a machine learning model to predict the risk of defaulting on loans based on financial information provided. The data included features that could be used to predict whether a loan would be healthy (0) or high-risk (1).
+
+The stages of the machine learning process involved data preprocessing, separating the data into labels and features, splitting the data into training and testing sets, fitting the logistic regression model, and evaluating its performance using a confusion matrix and classification report.
+
+## Results
+Accuracy Score: 99.24%
+
+Precision for Healthy Loan (Class 0): 100%
+
+Precision for High-Risk Loan (Class 1): 87%
+
+Recall for Healthy Loan (Class 0): 100%
+
+Recall for High-Risk Loan (Class 1): 89%
+
+F1-score for Healthy Loan (Class 0): 100%
+
+F1-score for High-Risk Loan (Class 1): 88%
+
+## Summary
+The logistic regression model demonstrates exceptional performance in predicting credit risk. With an accuracy score of 99.24%, the model correctly classifies loans as healthy or high-risk in almost all cases. The precision and recall scores further validate the model's effectiveness, particularly in correctly identifying high-risk loans (precision: 87%, recall: 89%).
+
+Considering the high precision and recall scores, the model is highly recommended for use by the company. Its ability to accurately predict high-risk loans while minimizing false alarms makes it a valuable tool for risk assessment and decision-making.
+
+## Conclusion
+In conclusion, the logistic regression model proves to be an effective solution for credit risk analysis. It has high accuracy, precision, and recall scores indicating high performance, making it suitable for use in the company's loan approval process.
